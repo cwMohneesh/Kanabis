@@ -1,0 +1,593 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-23 08:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/woo-multi-currency.php:47
+msgid ""
+"Please install and active WooCommerce. WooCommerce Multi Currency is going "
+"to working."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:46
+msgid ""
+"The following options affect how prices are displayed on the frontend. Woo "
+"Multi Currency is working. Please go to "
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:46
+msgid "WooCommerce Multi Currency setting page"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:46
+msgid " to set default currency."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:160
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:237
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:237
+msgid "Upgrade"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:167
+msgid "Upgrade Woo Multi Currency Pro"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:234
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:234
+msgid "Settings"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:271
+msgid "WooCommerce Multi Currency"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/admin.php:271
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/product.php:39
+msgid "Multi Currency"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/order.php:23
+msgid "Currency Information"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/order.php:62
+msgid ""
+"This order created when multi currency disabled, so base currency and rate "
+"is current info"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/order.php:76
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:224
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:388
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:445
+msgid "Currency"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/order.php:82
+msgid "Base on Currency"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/order.php:88
+msgid "Currency Rate"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/product.php:46
+msgid "Set regular prices"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/product.php:47
+msgid "Set sale prices"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/product.php:67
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/yith_product_bundles.php:35
+msgid "Regular Price"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/product.php:71
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/yith_product_bundles.php:39
+msgid "Sale Price"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/product.php:106
+msgid "Regular Price:"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/product.php:110
+msgid "Sale Price:"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:158
+msgid "WooCommerce Multi Currency Settings"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:164
+msgid "General"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:167
+msgid "Location"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:170
+msgid "Checkout"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:173
+msgid "Design"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:176
+msgid "Update"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:186
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:473
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:637
+msgid "Enable"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:199
+msgid "Fixed Price"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:207
+msgid ""
+"Visible Regular price and Sale price for each product. You can fill price "
+"correctly that is not base on exchange rate."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:213
+msgid "Currency Options"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:225
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:494
+msgid "Position"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:226
+msgid "Rate"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:227
+msgid "Number of Decimals"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:228
+msgid "Custom symbol"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:229
+msgid "Action"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:278
+msgid "Left $99"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:279
+msgid "Right 99$"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:280
+msgid "Left with space $ 99"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:281
+msgid "Right with space 99 $"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:294
+msgid "Update Rate"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:297
+msgid "Remove"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:309
+msgid "Add Currency"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:312
+msgid "Update All Rates"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:321
+msgid ""
+"You can add only 2 currencies. Please update Pro version to add unlimited "
+"currencies."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:322
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:452
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:650
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:670
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:680
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:690
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:702
+msgid "Update This Feature"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:325
+msgid ""
+"*Custom symbol: You can set custom symbol for each currency in your list and "
+"how to it will be displayed (used when you have many currency have same "
+"symbol). Leave it empty to used default symbol. Example: if you set US$ for "
+"US dolar, system will display US$100 instead of $100 like default. Or you "
+"can use with pramater #PRICE# to display price in special format, example: "
+"if you set US #PRICE# $, system will display: US 100 $."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:340
+msgid "Auto Detect"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:345
+msgid "No"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:346
+msgid "Auto select currency"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:347
+msgid "Approximate Price"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:356
+msgid "Geo API"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:361
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:35
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:50
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:65
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:80
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:95
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:109
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:124
+msgid "WooCommerce"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:362
+msgid "External"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:364
+msgid "API will help detect customer country code base on IP address."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:371
+msgid "Currency by Country"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:379
+msgid ""
+"Only working with AUTO SELECT CURRENCY feature. Currency will be selected "
+"base on country."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:389
+msgid "Countries"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:390
+msgid "Actions"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:401
+msgid "Please select countries"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:420
+msgid "Select all"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:423
+msgid "Remove All"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:437
+msgid "Polylang Language switcher"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:444
+msgid "Language"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:467
+msgid "Currencies Bar"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:485
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:39
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:54
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:69
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:84
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:99
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:113
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:128
+msgid "Title"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:505
+msgid "Left"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:517
+msgid "Right"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:526
+msgid "Text color"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:534
+msgid "Main color"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:542
+msgid "Background color"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:550
+msgid "Conditional Tags"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:556
+msgid "Checkout page"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:564
+msgid "Enable to Currencies Bar disappear on Checkout page."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:570
+msgid "Cart page"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:578
+msgid "Enable to Currencies Bar disappear on Cart page."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:584
+msgid "Other pages"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:588
+msgid "eg: !is_page(array(34,98,73))"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:590
+msgid "Let you adjust which pages will appear using WP's conditional tags."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:595
+msgid "Widget"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:600
+msgid "Flag Custom"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:604
+msgid ""
+"Some countries use the same currency. You can choice flag correctly. Each "
+"line is the flag. Structure [currency_code,country_code]. Example: EUR,ES"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:609
+msgid "Custom"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:614
+msgid "CSS"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:631
+msgid "Pay in many currencies"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:644
+msgid "Checkout currency"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:649
+msgid "On checkout page, Currency will be changed."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:665
+msgid "Auto Update Exchange Rate"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:669
+msgid "Exchange will be updated automatically."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:676
+msgid "Finance API"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:679
+msgid "Rates will be from Google Finance, Yahoo Finance....."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:686
+msgid "Rate Decimals"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:689
+msgid "Rate will be rounded with number of decimals."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:697
+msgid "Email"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:701
+msgid "Send email to admin when exchange rate is updated."
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/settings.php:712
+msgid "Save"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:20
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:85
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:85
+msgid "System Status"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:49
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:49
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:53
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:53
+msgid "PHP Time Limit"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:57
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:57
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:62
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:62
+msgid "Memory Limit"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:67
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/admin/system.php:67
+msgid "Allow URL Open"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/cryptocurrency.php:29
+msgid "Litecoin"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/cryptocurrency.php:30
+msgid "Ethereum"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/price.php:97
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/price.php:101
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/price.php:105
+msgid "Approximately"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/data.php:544
+msgid "European Union"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/data.php:600
+msgid "Default"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/data.php:601
+msgid "Plain Horizontal"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/data.php:602
+msgid "Plain Vertical"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/data.php:603
+msgid "List Flag Horizontal"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/data.php:604
+msgid "List Flag Vertical"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/data.php:605
+msgid "List Flag + Currency Code"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/data.php:606
+msgid "Horizontal Currency Symbols"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/data.php:607
+msgid "Vertical Currency Symbols"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/support.php:28
+msgid "HELP CENTER"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/includes/support.php:52
+msgid "MAYBE YOU LIKE"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:31
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:46
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:61
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:76
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:91
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:105
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/plugins/visual_composer.php:120
+msgid "Woo multi currency"
+msgstr ""
+
+#. Base ID
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/widgets/widget-selector.php:17
+msgid "Currency Selector"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/widgets/widget-selector.php:18
+msgid ""
+"Change display currency on shop page. Widget of WooCommerce Multi Currency "
+"by VillaTheme"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/widgets/widget-selector.php:55
+msgid "Title:"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/widgets/widget-selector.php:56
+msgid "Please enter your title"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/widgets/widget-selector.php:71
+msgid "Flag size"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/widgets/widget-selector.php:76
+msgid "Small"
+msgstr ""
+
+#: Volumes/DATA/SVN/woo-multi-currency/trunk/frontend/widgets/widget-selector.php:77
+msgid "Large"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woo Multi Currency"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allows display prices and accepts payments in multiple currencies. Working "
+"only with WooCommerce."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""

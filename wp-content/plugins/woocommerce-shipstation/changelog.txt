@@ -1,0 +1,30 @@
+*** ShipStation for WooCommerce ***
+
+2015.01.16 - version 4.0.6
+* Send negative discount.
+
+2015.01.08 - version 4.0.5
+* Export query based on post_modified_gmt rather than post_date_gmt
+
+2014.11.19 - version 4.0.4
+* Fix compatibility with Sequential order numbers.
+
+2014.11.13 - version 4.0.3
+* Extra logging in ShipNotify.
+* Fixed completeting orders with multiple lines.
+
+2014.11.13 - version 4.0.2
+* Order results by date.
+* Enforce minimum page 1.
+* Removed check to see if orders need shipping to prevent issues with offset/max pages. Exports all orders.
+
+2014.11.12 - version 4.0.1
+* Added 'pages' node to XML feed so ShipStation knows how many pages of results are present.
+
+2014.11.01 - version 4.0.0
+* Completely refactored by WooThemes!
+* Supports split orders (only completes the order once all items are shipped).
+* Exports orders (from statuses you define).
+* Excludes orders and items which do not require shipping.
+* Simplified setup process; just requires an auth key.
+* Exports order-level discounts as line items.

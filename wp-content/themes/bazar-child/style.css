@@ -1,0 +1,72 @@
+/*
+Theme Name: Bazar Child
+Theme URI: http://demo.yithemes.com/bazar/
+Version: 2.4.8
+Description: Shop Wordpress Theme
+Author: Your Inspiration Themes
+Author URI: http://yithemes.com
+Tags: white, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, front-page-post-form, full-width-template, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+template: bazar
+
+	Copyright: (c) 2012 Your Inspiration Themes.
+	License: GNU General Public License v3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.txt
+
+*/
+
+
+@import url("../bazar/style.css");
+
+/* Below you can write your style */
+#tagline {display:none;}
+#nav ul li a:hover, #nav li:hover >a {
+	color: #f7671f;
+}
+#header-sidebar .widget-first{
+	width: 200px;
+	float: right;
+}
+.summary .yith-wcwl-add-button { display: none;}
+.product-description ul {margin:0px 0px 0px 16px!important; clear:none!important;}
+.product-description ul,.product-description ul li { list-style: square!important;}
+.product-description ul:after{ clear:none!important; }
+h3.clr { clear: both;}
+#size-chart {width:880px}
+#size-chart img{padding:10px; }
+#size-chart .short-table table {}
+#size-chart .short-table table td {padding: 4px 10px;}
+#size-chart .short-table table th {padding: 10px; height:auto; border-left: 1px solid #d3d3d3;}
+.short-table,.instructions {float:left; width:35%;padding:10px;}
+.foot {float:left; width:20%}
+.current-day {background: #E8E8E8;}
+#header #logo {margin-top:0px!important;}
+#header #logo #tagline {
+	font-family: 'Shadows Into Light', sans-serif !important;
+}
+.quantity-wrap label, div.product-box label, .qnt_label{
+	margin-bottom: 10px!important;	
+}
+.faq-title .minus, .sidebar .widget .minus, #sidebar-shop-sidebar .widget .minus { background-color: #f37031;}
+.variations .select-wrapper .sbOptions li a, .variations .sbHolder .sbOptions li a, 
+.variations .select-wrapper a.sbSelector, .variations .select-wrapper select, .variations .sbHolder a.sbSelector, .variations .attribute-options select{color:#9D9D9D!important;}
+div.product form.cart .variations, #content div.product form.cart .variations, .product-box form.cart .variations{
+	margin-top:1.8em!important;
+}
+#header-sidebar .widget_text div{line-height:28px;}
+
+div.socials-default-small, a.socials-default-small{ width:27px!important; height:28px!important;}
+a.socials-default-small.facebook {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -28px bottom transparent!important;}
+a.socials-default-small.google {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -83px bottom transparent!important;}
+a.socials-default-small.linkedin {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -110px bottom transparent!important;}
+a.socials-default-small.pinterest {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -138px bottom transparent!important;}a.socials-default-small.twitter {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -248px bottom transparent!important;}a.socials-default-small.instagram {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -275px bottom transparent!important;}a.socials-default-small.facebook:hover {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -28px top transparent!important;}
+a.socials-default-small.google:hover {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -83px top transparent!important;}
+a.socials-default-small.linkedin:hover {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -110px top transparent!important;}
+a.socials-default-small.pinterest:hover {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -138px top transparent!important;}
+a.socials-default-small.twitter:hover {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -248px top transparent!important;}
+a.socials-default-small.instagram:hover {background: url("/testbed/wp-content/themes/bazar/images/icons/socials-small/socials-small.png") no-repeat scroll -275px top transparent!important;}
+
+@media (max-width: 1200px) {
+	#size-chart {width: auto!important;}
+	#size-chart img{float:none;}
+	.foot,.short-table,.instructions {float:none; width: auto;}
+}

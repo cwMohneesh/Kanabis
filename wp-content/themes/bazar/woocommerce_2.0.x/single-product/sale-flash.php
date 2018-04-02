@@ -1,0 +1,1 @@
+<?php woocommerce_get_template( 'loop/sale-flash.php' ) ?>

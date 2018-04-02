@@ -1,0 +1,45 @@
+.social-widget {
+    position: fixed;
+    z-index: 99999;
+}
+
+.social-widget .sbutton {
+   padding-bottom: 2px;
+    padding-left: 5px;
+    position: relative;
+    width: auto;
+}
+
+
+#wpsb-right .sbutton {
+    padding-left: 20px;
+    position: relative;
+    width: auto;
+}
+
+#wpsb-left #social-inner {
+
+    width: 89px;
+    background: url('../images/left.png') no-repeat;
+    height:390px;
+}
+
+#wpsb-right #social-inner {
+    width: 89px;
+    background: url('../images/right.png') no-repeat;
+    height:390px;
+}
+
+#social-inner .first {padding-top:45px;}
+#fb  {
+    padding-top:5px;
+    }
+
+#pin{
+    padding-top:37px;
+ 
+}
+
+#wpsb-right a#hide {padding-right:33px;}
+
+#wpsb-right a#show {float:right;}

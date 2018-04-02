@@ -1,0 +1,54 @@
+/*2.0.8 - 2018.03.05*/
+- Compatible: Printful shipping
+- Fixed: Class support
+- Fixed: Decimal symbols
+
+/*2.0.7.3 - 2018.01.16*/
+- Fixed: Price cache
+
+/*2.0.7.2 - 2018.01.13*/
+- Fixed: show debug
+
+/*2.0.7.1 - 2018.01.12*/
+- Fixed: Price Cache
+
+/*2.0.7 - 2018.01.12*/
+- Optimized: Get data
+- Fixed: Tab CSS in backend
+
+/*2.0.6 - 2018.01.06*/
+- Fixed: Conflict CSS of Currency bar
+- Fixed: Hide approximately if currency detect is the same current currency
+- Fixed: Change currency back that override in checkout page
+
+/*2.0.5 - 2017.12.23*/
+- Update: Large size for flag
+- Added: Geo API
+- Added: ETH, LTC currency
+- Added: Drag and drop currency
+- Fixed: Currency symbol not change when empty cart
+- Fixed: EUR text
+- Compatible: Visual Product Builder
+- Compatible: WooComerce Subscriptions
+- Compatible: WooComerce Product Bundles
+
+/*2.0.4 - 2017.11.23*/
+- Fixed: WooComerce load after
+- Fixed: Conditional tags
+- Fixed: Custom CSS
+- Added: Bulk edit in product variation
+- Added: System page
+
+/*2.0.3 - 2017.11.20*/
+- Fixed: Move data to new version
+- Fixed: Shipping with WooCOmmerce 3.1.1
+
+/*2.0.2 - 2017.11.11*/
+- Fixed: Conflict Class
+
+/*2.0.1 - 2017.11.10*/
+- Fixed: Check design on page
+- Fixed: Compatible with Flatsome theme
+
+/*2.0.0 - 2017.11.09*/
+- Updated: New version 2.0

@@ -1,0 +1,525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shipping Details for WooCommerce\n"
+"POT-Creation-Date: 2013-12-05 02:41+0530\n"
+"PO-Revision-Date: 2013-12-05 02:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: PatSaTECH <support@patsatech.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wooshippinginfo.php:285 wooshippinginfo.php:304
+msgid "Shipping Details"
+msgstr ""
+
+#: wooshippinginfo.php:303
+msgid "Shipping Details Settings"
+msgstr ""
+
+#: wooshippinginfo.php:432
+msgid "CLICK HERE"
+msgstr ""
+
+#: wooshippinginfo.php:433
+msgid "to track your shipment."
+msgstr ""
+
+#: includes/courier_list.php:4
+msgid "Afghan POST"
+msgstr ""
+
+#: includes/courier_list.php:5
+msgid "AFL Logistics / Transportation"
+msgstr ""
+
+#: includes/courier_list.php:6
+msgid "AFL WiZ Express"
+msgstr ""
+
+#: includes/courier_list.php:7
+msgid "An POST"
+msgstr ""
+
+#: includes/courier_list.php:8
+msgid "A-1 International"
+msgstr ""
+
+#: includes/courier_list.php:9
+msgid "APC OverNight"
+msgstr ""
+
+#: includes/courier_list.php:10
+msgid "Aramex"
+msgstr ""
+
+#: includes/courier_list.php:11
+msgid "ATS Solutions Canada"
+msgstr ""
+
+#: includes/courier_list.php:12
+msgid "ATS Healthcare"
+msgstr ""
+
+#: includes/courier_list.php:13
+msgid "Australia POST Domestic"
+msgstr ""
+
+#: includes/courier_list.php:14
+msgid "Australia POST International"
+msgstr ""
+
+#: includes/courier_list.php:15
+msgid "BlazeFlash Domestic"
+msgstr ""
+
+#: includes/courier_list.php:16
+msgid "BlazeFlash International"
+msgstr ""
+
+#: includes/courier_list.php:17
+msgid "BlueDart"
+msgstr ""
+
+#: includes/courier_list.php:18
+msgid "Bartolini Courier Express"
+msgstr ""
+
+#: includes/courier_list.php:19
+msgid "Canada POST"
+msgstr ""
+
+#: includes/courier_list.php:20
+msgid "Canpar"
+msgstr ""
+
+#: includes/courier_list.php:21
+msgid "CEVA"
+msgstr ""
+
+#: includes/courier_list.php:22
+msgid "China POST"
+msgstr ""
+
+#: includes/courier_list.php:23
+msgid "Chrono Expres"
+msgstr ""
+
+#: includes/courier_list.php:24
+msgid "Chronos Couriers"
+msgstr ""
+
+#: includes/courier_list.php:25
+msgid "City link"
+msgstr ""
+
+#: includes/courier_list.php:26
+msgid "CitySprint"
+msgstr ""
+
+#: includes/courier_list.php:27
+msgid "Colissimo"
+msgstr ""
+
+#: includes/courier_list.php:28
+msgid "Collect+"
+msgstr ""
+
+#: includes/courier_list.php:29
+msgid "Correios"
+msgstr ""
+
+#: includes/courier_list.php:30
+msgid "Correios Chile"
+msgstr ""
+
+#: includes/courier_list.php:31
+msgid "Correo Argentino"
+msgstr ""
+
+#: includes/courier_list.php:32
+msgid "CourierPost"
+msgstr ""
+
+#: includes/courier_list.php:33
+msgid "CTT"
+msgstr ""
+
+#: includes/courier_list.php:34
+msgid "Danske Fragtmand"
+msgstr ""
+
+#: includes/courier_list.php:35
+msgid "Deutsche Post"
+msgstr ""
+
+#: includes/courier_list.php:36
+msgid "DHL"
+msgstr ""
+
+#: includes/courier_list.php:37
+msgid "DHLFORYOU International"
+msgstr ""
+
+#: includes/courier_list.php:38
+msgid "DHL Germany"
+msgstr ""
+
+#: includes/courier_list.php:39
+msgid "DPD Ireland"
+msgstr ""
+
+#: includes/courier_list.php:40
+msgid "DPD Parcel"
+msgstr ""
+
+#: includes/courier_list.php:41
+msgid "Dynamex"
+msgstr ""
+
+#: includes/courier_list.php:42
+msgid "Elta"
+msgstr ""
+
+#: includes/courier_list.php:43
+msgid "Ensenda"
+msgstr ""
+
+#: includes/courier_list.php:44
+msgid "Fastway Couriers AU"
+msgstr ""
+
+#: includes/courier_list.php:45
+msgid "Fastway Couriers NZ"
+msgstr ""
+
+#: includes/courier_list.php:46
+msgid "Fedex"
+msgstr ""
+
+#: includes/courier_list.php:47
+msgid "First Flight Courier"
+msgstr ""
+
+#: includes/courier_list.php:48
+msgid "FlyKing"
+msgstr ""
+
+#: includes/courier_list.php:49
+msgid "GATI"
+msgstr ""
+
+#: includes/courier_list.php:50
+msgid "GD Express"
+msgstr ""
+
+#: includes/courier_list.php:51
+msgid "GLS Denmark"
+msgstr ""
+
+#: includes/courier_list.php:52
+msgid "Home Delivery Network"
+msgstr ""
+
+#: includes/courier_list.php:53
+msgid "HongKong POST"
+msgstr ""
+
+#: includes/courier_list.php:54
+msgid "ICC Worldwide"
+msgstr ""
+
+#: includes/courier_list.php:55
+msgid "InterLink Express"
+msgstr ""
+
+#: includes/courier_list.php:56
+msgid "JNE Express"
+msgstr ""
+
+#: includes/courier_list.php:57
+msgid "Japan POST"
+msgstr ""
+
+#: includes/courier_list.php:58
+msgid "LA Poste"
+msgstr ""
+
+#: includes/courier_list.php:59
+msgid "LaserShip"
+msgstr ""
+
+#: includes/courier_list.php:60
+msgid "LBC Express"
+msgstr ""
+
+#: includes/courier_list.php:61
+msgid "Lithuania POST"
+msgstr ""
+
+#: includes/courier_list.php:62
+msgid "Hermes UK"
+msgstr ""
+
+#: includes/courier_list.php:63
+msgid "My Hermes EU"
+msgstr ""
+
+#: includes/courier_list.php:64
+msgid "NAPAREX"
+msgstr ""
+
+#: includes/courier_list.php:65
+msgid "New Zealand Post"
+msgstr ""
+
+#: includes/courier_list.php:66
+msgid "New Zealand Couriers"
+msgstr ""
+
+#: includes/courier_list.php:67
+msgid "OCA Argentina"
+msgstr ""
+
+#: includes/courier_list.php:68
+msgid "OM International Courier & Cargo"
+msgstr ""
+
+#: includes/courier_list.php:69
+msgid "OnTrac"
+msgstr ""
+
+#: includes/courier_list.php:70
+msgid "Orbit Worldwide"
+msgstr ""
+
+#: includes/courier_list.php:71
+msgid "OverSeas Courier Service"
+msgstr ""
+
+#: includes/courier_list.php:72
+msgid "Pakistan POST"
+msgstr ""
+
+#: includes/courier_list.php:73
+msgid "Parcel2Go"
+msgstr ""
+
+#: includes/courier_list.php:74
+msgid "Parcel Force"
+msgstr ""
+
+#: includes/courier_list.php:75
+msgid "Parcel link"
+msgstr ""
+
+#: includes/courier_list.php:76
+msgid "PBT Transport"
+msgstr ""
+
+#: includes/courier_list.php:77
+msgid "PERU POST"
+msgstr ""
+
+#: includes/courier_list.php:78
+msgid "PHL Post"
+msgstr ""
+
+#: includes/courier_list.php:79
+msgid "Poslaju National Courier"
+msgstr ""
+
+#: includes/courier_list.php:80
+msgid "POS Indonesia"
+msgstr ""
+
+#: includes/courier_list.php:81
+msgid "POS Malaysia"
+msgstr ""
+
+#: includes/courier_list.php:82
+msgid "Post Danmark"
+msgstr ""
+
+#: includes/courier_list.php:83
+msgid "POST India"
+msgstr ""
+
+#: includes/courier_list.php:84
+msgid "POSTNL International"
+msgstr ""
+
+#: includes/courier_list.php:85
+msgid "POSTNL Local"
+msgstr ""
+
+#: includes/courier_list.php:86
+msgid "Posten Norway"
+msgstr ""
+
+#: includes/courier_list.php:87
+msgid "POST Office UK"
+msgstr ""
+
+#: includes/courier_list.php:88
+msgid "Posten Sweden"
+msgstr ""
+
+#: includes/courier_list.php:89
+msgid "Purolator"
+msgstr ""
+
+#: includes/courier_list.php:90
+msgid "Romania POST"
+msgstr ""
+
+#: includes/courier_list.php:91
+msgid "Royal Mail"
+msgstr ""
+
+#: includes/courier_list.php:92
+msgid "SafeXpress"
+msgstr ""
+
+#: includes/courier_list.php:93
+msgid "South African Post Office"
+msgstr ""
+
+#: includes/courier_list.php:94
+msgid "Selektvracht"
+msgstr ""
+
+#: includes/courier_list.php:95
+msgid "Shree Mahavir Courier"
+msgstr ""
+
+#: includes/courier_list.php:96
+msgid "Shree Maruti Courier"
+msgstr ""
+
+#: includes/courier_list.php:97
+msgid "SingPost"
+msgstr ""
+
+#: includes/courier_list.php:98
+msgid "SkyNET"
+msgstr ""
+
+#: includes/courier_list.php:99
+msgid "SmartSend"
+msgstr ""
+
+#: includes/courier_list.php:100
+msgid "S M Courier Services"
+msgstr ""
+
+#: includes/courier_list.php:101
+msgid "Spee Dee"
+msgstr ""
+
+#: includes/courier_list.php:102
+msgid "T-Cat"
+msgstr ""
+
+#: includes/courier_list.php:103
+msgid "TNT Express"
+msgstr ""
+
+#: includes/courier_list.php:104
+msgid "The Professionals Courier"
+msgstr ""
+
+#: includes/courier_list.php:105
+msgid "TradeLink International"
+msgstr ""
+
+#: includes/courier_list.php:106
+msgid "Urgent Air Courier Express"
+msgstr ""
+
+#: includes/courier_list.php:107
+msgid "UK Mail"
+msgstr ""
+
+#: includes/courier_list.php:108
+msgid "UPS"
+msgstr ""
+
+#: includes/courier_list.php:109
+msgid "UPS Germany"
+msgstr ""
+
+#: includes/courier_list.php:110
+msgid "US Postal Service"
+msgstr ""
+
+#: includes/courier_list.php:111
+msgid "Yodel"
+msgstr ""
+
+#: includes/courier_list.php:112
+msgid "Thailand POST"
+msgstr ""
+
+#: includes/courier_list.php:113
+msgid "Poste Italiane"
+msgstr ""
+
+#: includes/courier_list.php:114
+msgid "Toll Australia"
+msgstr ""
+
+#: includes/courier_list.php:115
+msgid "Russian POST"
+msgstr ""
+
+#: includes/courier_list.php:116
+msgid "Inter Parcel"
+msgstr ""
+
+#: includes/courier_list.php:117
+msgid "DTDC India"
+msgstr ""
+
+#: includes/courier_list.php:118
+msgid "Austria POST"
+msgstr ""
+
+#: includes/courier_list.php:119
+msgid "Armenia POST"
+msgstr ""
+
+#: includes/courier_list.php:120
+msgid "Belarus POST"
+msgstr ""
+
+#: includes/courier_list.php:121
+msgid "Belgium POST"
+msgstr ""
+
+#: includes/courier_list.php:122
+msgid "Bulgarian POST"
+msgstr ""
+
+#: includes/courier_list.php:123
+msgid "Finland POST"
+msgstr ""
+
+#: includes/courier_list.php:124
+msgid "ChronoPOST France"
+msgstr ""
+
+#: includes/courier_list.php:125
+msgid "Temando"
+msgstr ""
+
+#: includes/courier_list.php:126
+msgid "Seur"
+msgstr ""
